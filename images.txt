@@ -5,3 +5,4 @@ redis:6.2
 mysql:8.0.32
 rabbitmq:3.12.9
 elasticsearch:7.6.2
+elasticsearch-with-ik:7.6.2
